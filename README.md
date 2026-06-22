@@ -1,0 +1,2 @@
+# CG_class_program_public
+大学のCGに関する授業で作成したプログラム
